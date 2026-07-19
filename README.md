@@ -1,4 +1,7 @@
 # StarLoco - Login
+
+[![CI](https://github.com/maj3mo/Husaria-Login/actions/workflows/ci.yml/badge.svg)](https://github.com/maj3mo/Husaria-Login/actions/workflows/ci.yml)
+
 The most advanced public 1.39.8 dofus emulator written in Java 8.
 
 ## Summary
